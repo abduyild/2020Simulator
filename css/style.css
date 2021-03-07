@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Consolas';
+  src: 'fonts/Consolas.ttf';
+}
+
+body {
+  font-family: 'Consolas', sans-serif;
+}
+
+#info {
+    font-size: 3.0em;
+    display: none;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
